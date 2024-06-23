@@ -65,9 +65,9 @@
   "socket": true,
   "license": "LICENSE",
   "readme": "README.md",
-  "url": "https://github.com/sPOiDar/fvtt-module-stream-view",
-  "bugs": "https://github.com/sPOiDar/fvtt-module-stream-view/issues",
-  "changelog": "https://github.com/sPOiDar/fvtt-module-stream-view/blob/master/CHANGELOG.md",
-  "manifest": "https://github.com/sPOiDar/fvtt-module-stream-view/raw/master/module.json",
-  "download": "https://github.com/sPOiDar/fvtt-module-stream-view/releases/download/v2.0.3/stream-view-v2.0.3.zip"
+  "url": "https://github.com/Lioheart/fvtt-stream",
+  "bugs": "https://github.com/Lioheart/fvtt-stream/issues",
+  "changelog": "https://github.com/Lioheart/fvtt-stream/blob/master/CHANGELOG.md",
+  "manifest": "https://github.com/Lioheart/fvtt-stream/raw/master/module.json",
+  "download": "https://github.com/Lioheart/fvtt-stream/releases/download/v2.0.4/stream-view-v2.0.4.zip"
 }
