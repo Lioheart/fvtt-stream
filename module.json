@@ -1,7 +1,7 @@
 {
   "id": "stream-view",
-  "name": "stream-view",
-  "title": "Stream View",
+  "name": "stream-view-fork",
+  "title": "Stream View V12 Fork",
   "description": "This module provides a minimal UI view with automated camera work, ideal for streaming or recording games.",
   "authors": [
     {
@@ -9,7 +9,7 @@
       "url": "https://github.com/sPOiDar"
     }
   ],
-  "version": "2.0.3",
+  "version": "2.0.4",
   "minimumCoreVersion": "10",
   "compatibleCoreVersion": "11",
   "compatibility": {
