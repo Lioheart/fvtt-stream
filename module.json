@@ -66,8 +66,6 @@
   "license": "LICENSE",
   "readme": "README.md",
   "url": "https://github.com/Lioheart/fvtt-stream",
-  "bugs": "https://github.com/Lioheart/fvtt-stream/issues",
-  "changelog": "https://github.com/Lioheart/fvtt-stream/blob/master/CHANGELOG.md",
-  "manifest": "https://github.com/Lioheart/fvtt-stream/raw/master/module.json",
+  "manifest": "https://raw.githubusercontent.com/Lioheart/fvtt-stream/develop/module.json",
   "download": "https://github.com/Lioheart/fvtt-stream/releases/download/v2.0.4/fvtt-stream-v2.0.4.zip"
 }
